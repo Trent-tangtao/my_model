@@ -1,0 +1,19 @@
+1.base    √
+
+2.CNN     √
+VGG，googLeNet，ResNet，DenseNet
+
+3.model
+SSD，YOLO，Faster_RCNN，Retina，CenterNet，FPN
+Hourglass，M2Det
+Attention
+
+4.tricks
+NMS
+IOU_Net，G_IOU
+OHEM，Focal_Loss
+中继监督
+多尺度训练
+
+多尺度融合怎么做到
+
